@@ -1,0 +1,33 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: grey;
+  
+}
+canvas {
+  border:thick solid grey;
+  display: flex;
+}
+
+p {
+        color: black;
+	      text-align: center;
+        font-size: 24px;
+      }
+
+h1 {
+        color: black;
+        border: thin solid red;
+	      text-align: right;
+      }
+h2{
+  text-align: center;
+}
+#status{
+  text-align: center;
+  font-size: small;
+}
+.selection{
+  text-align: center;
+}
